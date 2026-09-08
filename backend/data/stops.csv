@@ -1,0 +1,17 @@
+id,name,name_my,latitude,longitude,area,demand_rate
+S01,Sule Pagoda,ဆူးလေ,16.7744,96.1587,Kyauktada,850
+S02,Lanmadaw,လမ်းမတော်,16.7772,96.1465,Lanmadaw,520
+S03,Sanchaung,စမ်းချောင်း,16.8041,96.1367,Sanchaung,610
+S04,Myaynigone,မြေနီကုန်း,16.8080,96.1385,Sanchaung,740
+S05,Shwedagon Pagoda,ရွှေတိဂုံ,16.7983,96.1497,Bahan,680
+S06,Tamwe,တာမွေ,16.8095,96.1706,Tamwe,790
+S07,Hledan,လှည်းတန်း,16.8275,96.1287,Kamayut,980
+S08,Kamayut (Inya),ကမာရွတ်,16.8340,96.1340,Kamayut,540
+S09,Yankin,ရန်ကင်း,16.8350,96.1620,Yankin,580
+S10,Thingangyun,သင်္ဃန်းကျွန်း,16.8220,96.1880,Thingangyun,690
+S11,Thaketa,သာကေတ,16.7850,96.2050,Thaketa,630
+S12,Mayangone (8 Mile),မရမ်းကုန်း (၈ မိုင်),16.8650,96.1350,Mayangone,710
+S13,South Okkalapa,တောင်ဥက္ကလာပ,16.8480,96.1750,South Okkalapa,660
+S14,North Okkalapa,မြောက်ဥက္ကလာပ,16.8850,96.1680,North Okkalapa,720
+S15,Bayint Naung,ဘုရင့်နောင်,16.8580,96.1080,Mayangone,590
+S16,Insein Terminal,အင်းစိန်,16.8920,96.1150,Insein,830

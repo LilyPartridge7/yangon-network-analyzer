@@ -1,0 +1,10 @@
+id,name,description,color,start_stop,end_stop
+R01,YBS Line 1 (Downtown Loop),Circular route servicing Sule, Lanmadaw, Sanchaung,#2563EB,S01,S01
+R02,YBS Line 21 (Pyay Corridor),Major north-south trunk corridor along Pyay Road from downtown to Insein,#DC2626,S03,S16
+R03,YBS Line 36 (Bahan Link),Heritage connection via Shwedagon Pagoda,#16A34A,S01,S04
+R04,YBS Line 65 (East-West Trunk),Cross-city connector between Tamwe and Myaynigone,#9333EA,S01,S04
+R05,YBS Line 12 (Yankin Radial),Radial line connecting Tamwe, Yankin, and Kamayut,#D97706,S06,S08
+R06,YBS Line 89 (Bayint Naung Rd),Logistics & market western corridor to Insein,#0891B2,S07,S16
+R07,YBS Line 58 (Thaketa Express),South-Eastern corridor connecting Thaketa and Thingangyun,#4F46E5,S01,S06
+R08,YBS Line 44 (Waizayandar Line),Eastern Okkalapa arterial transit line,#EA580C,S10,S14
+R09,YBS Line 39 (Parami Cross-Town),Northern cross-town link across Inya,#059669,S09,S12

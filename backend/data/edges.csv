@@ -1,0 +1,27 @@
+id,source,target,distance_km,travel_time_min,capacity,route_name,bidirectional
+E01,S01,S02,1.8,6,600,YBS Line 1 (Downtown Loop),true
+E02,S02,S03,3.5,11,550,YBS Line 1 (Downtown Loop),true
+E03,S03,S04,1.2,4,700,YBS Line 21 (Pyay Corridor),true
+E04,S04,S07,2.9,9,800,YBS Line 21 (Pyay Corridor),true
+E05,S07,S08,1.4,5,750,YBS Line 21 (Pyay Corridor),true
+E06,S08,S12,4.1,13,650,YBS Line 21 (Pyay Corridor),true
+E07,S12,S16,3.6,12,700,YBS Line 21 (Pyay Corridor),true
+E08,S01,S05,3.2,10,600,YBS Line 36 (Bahan Link),true
+E09,S05,S04,1.6,6,500,YBS Line 36 (Bahan Link),true
+E10,S01,S06,4.5,14,750,YBS Line 65 (East-West Trunk),true
+E11,S06,S04,3.4,11,600,YBS Line 65 (East-West Trunk),true
+E12,S06,S09,3.8,12,550,YBS Line 12 (Yankin Radial),true
+E13,S09,S08,3.2,10,500,YBS Line 12 (Yankin Radial),true
+E14,S07,S15,4.2,14,600,YBS Line 89 (Bayint Naung Rd),true
+E15,S15,S16,4.0,13,650,YBS Line 89 (Bayint Naung Rd),true
+E16,S01,S11,5.2,16,600,YBS Line 58 (Thaketa Express),true
+E17,S11,S10,4.8,15,500,YBS Line 58 (Thaketa Express),true
+E18,S10,S06,3.1,10,650,YBS Line 58 (Thaketa Express),true
+E19,S10,S13,3.6,11,550,YBS Line 44 (Waizayandar Line),true
+E20,S13,S14,4.5,15,600,YBS Line 44 (Waizayandar Line),true
+E21,S14,S12,4.8,16,500,YBS Line 39 (Parami Cross-Town),true
+E22,S09,S13,2.5,8,600,YBS Line 39 (Parami Cross-Town),true
+E23,S05,S06,2.8,9,550,YBS Line 15 (Heritage Shwedagon),true
+E24,S03,S01,4.2,13,500,YBS Line 1 (Downtown Loop),false
+E25,S08,S15,3.8,12,550,YBS Line 89 (Bayint Naung Rd),true
+E26,S14,S16,5.1,16,600,YBS Line 39 (Parami Cross-Town),true
